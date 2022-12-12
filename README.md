@@ -1,7 +1,5 @@
 
-This is a sample 
+This is a sample demo  
 
-
-This is just a sample testing1234
-This testing the integration of jira
-Working in progress
+This is testing the integration of jira
+Work in progress
