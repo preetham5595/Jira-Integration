@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: This is a sample demo This is testing the integration of jira1234 Work in progress
+        run: This is a sample demo 
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
